@@ -31,7 +31,7 @@ streamlit run app.py
 python flask_app.py
 ```
 ## Screenshots
-    <div>
-        <img src="images/app1.png" alt="Upload Screenshot" width="45%" style="display: inline-block; margin-right: 10px;" />
-        <img src="images/app2.png" alt="Results Screenshot" width="45%" style="display: inline-block;" />
-    </div>
+<div>
+    <img src="images/app1.png" alt="Upload Screenshot" width="45%" style="display: inline-block; margin-right: 10px;" />
+    <img src="images/app2.png" alt="Results Screenshot" width="45%" style="display: inline-block;" />
+</div>
