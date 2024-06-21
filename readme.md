@@ -15,9 +15,19 @@ This project is a web application designed to analyze the sentiment of call tran
 - **Streamlit**: For building the interactive user interface.
 - **Flask**: For handling backend API requests and processing.
 - **Python**: Programming language used for building the app.
-- **Machine Learning**: Sentiment analysis model.
+- **Libraries for sentiment analysis**: textblob, nltk(vader), flair, text2emotion, fer
 
 ## To run the app
+
+```bash
+https://github.com/theBatman07/SentimentAnalysis.git
+cd SentimentAnalysis
+```
+
+```bash
+    python -m venv venv
+    source venv/bin/activate # on Windows venv/Scripts/activate
+```
 
 ```bash
 pip install -r requirements.txt
